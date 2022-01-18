@@ -1,0 +1,6180 @@
+fileFormatVersion: 2
+guid: 911ce15d581407d46883c6bdfc08e49b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2986434591555408780
+    second: GameGUIEasyOneApart_0
+  - first:
+      213: 8859763529824646878
+    second: GameGUIEasyOneApart_1
+  - first:
+      213: 1687382077483211590
+    second: GameGUIEasyOneApart_2
+  - first:
+      213: 6553407208017032659
+    second: GameGUIEasyOneApart_3
+  - first:
+      213: 9024518993727852107
+    second: GameGUIEasyOneApart_4
+  - first:
+      213: -1894873975771007561
+    second: GameGUIEasyOneApart_5
+  - first:
+      213: 385950464950791759
+    second: GameGUIEasyOneApart_6
+  - first:
+      213: 3726960383976409364
+    second: GameGUIEasyOneApart_7
+  - first:
+      213: 4679465717522424835
+    second: GameGUIEasyOneApart_8
+  - first:
+      213: 5059526409544973634
+    second: GameGUIEasyOneApart_9
+  - first:
+      213: -4241004667995159998
+    second: GameGUIEasyOneApart_10
+  - first:
+      213: -6236250314711234646
+    second: GameGUIEasyOneApart_11
+  - first:
+      213: 68944489444123918
+    second: GameGUIEasyOneApart_12
+  - first:
+      213: 4134869394160922291
+    second: GameGUIEasyOneApart_13
+  - first:
+      213: 1984903063778325553
+    second: GameGUIEasyOneApart_14
+  - first:
+      213: -2193850690187246299
+    second: GameGUIEasyOneApart_15
+  - first:
+      213: 6619416519453655450
+    second: GameGUIEasyOneApart_16
+  - first:
+      213: 5674873851073851680
+    second: GameGUIEasyOneApart_17
+  - first:
+      213: 4852435450801338693
+    second: GameGUIEasyOneApart_18
+  - first:
+      213: 2742678965713143142
+    second: GameGUIEasyOneApart_19
+  - first:
+      213: 7273810191911272273
+    second: GameGUIEasyOneApart_20
+  - first:
+      213: 8494233635837919632
+    second: GameGUIEasyOneApart_21
+  - first:
+      213: 5321702072445652550
+    second: GameGUIEasyOneApart_22
+  - first:
+      213: -9132889820746293445
+    second: GameGUIEasyOneApart_23
+  - first:
+      213: -894808372699942188
+    second: GameGUIEasyOneApart_24
+  - first:
+      213: 79489888135383607
+    second: GameGUIEasyOneApart_25
+  - first:
+      213: -6168499807231039503
+    second: GameGUIEasyOneApart_26
+  - first:
+      213: 2796144852299264887
+    second: GameGUIEasyOneApart_27
+  - first:
+      213: 6995664787754723698
+    second: GameGUIEasyOneApart_28
+  - first:
+      213: -1848314965154663402
+    second: GameGUIEasyOneApart_29
+  - first:
+      213: 9208876777059944004
+    second: GameGUIEasyOneApart_30
+  - first:
+      213: 5150244185697704090
+    second: GameGUIEasyOneApart_31
+  - first:
+      213: 7862190580920328653
+    second: GameGUIEasyOneApart_32
+  - first:
+      213: -5254417288318516198
+    second: GameGUIEasyOneApart_33
+  - first:
+      213: -3599228451694896539
+    second: GameGUIEasyOneApart_34
+  - first:
+      213: -8407691698005659411
+    second: GameGUIEasyOneApart_35
+  - first:
+      213: 508753201522947420
+    second: GameGUIEasyOneApart_36
+  - first:
+      213: 799267303540650471
+    second: GameGUIEasyOneApart_37
+  - first:
+      213: 6633518130430914158
+    second: GameGUIEasyOneApart_38
+  - first:
+      213: -1784113308555111335
+    second: GameGUIEasyOneApart_39
+  - first:
+      213: 7081275337885420369
+    second: GameGUIEasyOneApart_40
+  - first:
+      213: -8871457703281815304
+    second: GameGUIEasyOneApart_41
+  - first:
+      213: -5056160819628140869
+    second: GameGUIEasyOneApart_42
+  - first:
+      213: -4776043690446243156
+    second: GameGUIEasyOneApart_43
+  - first:
+      213: 3063250024691366232
+    second: GameGUIEasyOneApart_44
+  - first:
+      213: 4896856106541291755
+    second: GameGUIEasyOneApart_45
+  - first:
+      213: 4807338037690476876
+    second: GameGUIEasyOneApart_46
+  - first:
+      213: -4529846691188071882
+    second: GameGUIEasyOneApart_47
+  - first:
+      213: -2461616463428784033
+    second: GameGUIEasyOneApart_48
+  - first:
+      213: -1242462673618688502
+    second: GameGUIEasyOneApart_49
+  - first:
+      213: -7467761367203038261
+    second: GameGUIEasyOneApart_50
+  - first:
+      213: -172559918854139668
+    second: GameGUIEasyOneApart_51
+  - first:
+      213: -8356563702747026947
+    second: GameGUIEasyOneApart_52
+  - first:
+      213: -8904187644012215467
+    second: GameGUIEasyOneApart_53
+  - first:
+      213: 3454028409650649645
+    second: GameGUIEasyOneApart_54
+  - first:
+      213: 8058160160646777686
+    second: GameGUIEasyOneApart_55
+  - first:
+      213: -7354101131453410652
+    second: GameGUIEasyOneApart_56
+  - first:
+      213: -4270200790749216884
+    second: GameGUIEasyOneApart_57
+  - first:
+      213: -2899147612445627060
+    second: GameGUIEasyOneApart_58
+  - first:
+      213: -2148019435635829444
+    second: GameGUIEasyOneApart_59
+  - first:
+      213: -1489592741681630360
+    second: GameGUIEasyOneApart_60
+  - first:
+      213: -2613111401981732821
+    second: GameGUIEasyOneApart_61
+  - first:
+      213: -8795815580900843978
+    second: GameGUIEasyOneApart_62
+  - first:
+      213: -1536545653582470358
+    second: GameGUIEasyOneApart_63
+  - first:
+      213: -5108674238988679726
+    second: GameGUIEasyOneApart_64
+  - first:
+      213: 4768108630306095930
+    second: GameGUIEasyOneApart_65
+  - first:
+      213: -1961519399651425947
+    second: GameGUIEasyOneApart_66
+  - first:
+      213: 7507637179730836774
+    second: GameGUIEasyOneApart_67
+  - first:
+      213: 1665760652481190097
+    second: GameGUIEasyOneApart_68
+  - first:
+      213: -6330816306109813803
+    second: GameGUIEasyOneApart_69
+  - first:
+      213: 4511836031547481091
+    second: GameGUIEasyOneApart_70
+  - first:
+      213: -867030997861977732
+    second: GameGUIEasyOneApart_71
+  - first:
+      213: 5160225397487950913
+    second: GameGUIEasyOneApart_72
+  - first:
+      213: 1164889785159595608
+    second: GameGUIEasyOneApart_73
+  - first:
+      213: -594384103436328515
+    second: GameGUIEasyOneApart_74
+  - first:
+      213: 4340117106032691117
+    second: GameGUIEasyOneApart_75
+  - first:
+      213: -6903232553851698862
+    second: GameGUIEasyOneApart_76
+  - first:
+      213: 8129992601758259985
+    second: GameGUIEasyOneApart_77
+  - first:
+      213: 240487783820062795
+    second: GameGUIEasyOneApart_78
+  - first:
+      213: 8384625969241369463
+    second: GameGUIEasyOneApart_79
+  - first:
+      213: 1966864456924667305
+    second: GameGUIEasyOneApart_80
+  - first:
+      213: -4707884615307039259
+    second: GameGUIEasyOneApart_81
+  - first:
+      213: -4961297628667019109
+    second: GameGUIEasyOneApart_82
+  - first:
+      213: 8698450385127333919
+    second: GameGUIEasyOneApart_83
+  - first:
+      213: -5798477295600017348
+    second: GameGUIEasyOneApart_84
+  - first:
+      213: -2012533738583171965
+    second: GameGUIEasyOneApart_85
+  - first:
+      213: 3191463970654652231
+    second: GameGUIEasyOneApart_86
+  - first:
+      213: 6493434916159518435
+    second: GameGUIEasyOneApart_87
+  - first:
+      213: -5734801377737437675
+    second: GameGUIEasyOneApart_88
+  - first:
+      213: 909836510978495922
+    second: GameGUIEasyOneApart_89
+  - first:
+      213: -1179655873185865319
+    second: GameGUIEasyOneApart_90
+  - first:
+      213: -3908488038160508149
+    second: GameGUIEasyOneApart_91
+  - first:
+      213: 5954461690465786409
+    second: GameGUIEasyOneApart_92
+  - first:
+      213: -6511438709032793389
+    second: GameGUIEasyOneApart_93
+  - first:
+      213: 1952911341454925436
+    second: GameGUIEasyOneApart_94
+  - first:
+      213: -7006134943247589088
+    second: GameGUIEasyOneApart_95
+  - first:
+      213: -4610576851809356768
+    second: GameGUIEasyOneApart_96
+  - first:
+      213: -5378087820959240027
+    second: GameGUIEasyOneApart_97
+  - first:
+      213: -3922026080690211288
+    second: GameGUIEasyOneApart_98
+  - first:
+      213: 6437624767293229102
+    second: GameGUIEasyOneApart_99
+  - first:
+      213: 936621242195818060
+    second: GameGUIEasyOneApart_100
+  - first:
+      213: -1457282147815772381
+    second: GameGUIEasyOneApart_101
+  - first:
+      213: -7559399834051304262
+    second: GameGUIEasyOneApart_102
+  - first:
+      213: -4520866425162124150
+    second: GameGUIEasyOneApart_103
+  - first:
+      213: 4044047348164563694
+    second: GameGUIEasyOneApart_104
+  - first:
+      213: 1703629914289265497
+    second: GameGUIEasyOneApart_105
+  - first:
+      213: -5256199021180149249
+    second: GameGUIEasyOneApart_106
+  - first:
+      213: -8969040804513420962
+    second: GameGUIEasyOneApart_107
+  - first:
+      213: -401392194450314806
+    second: GameGUIEasyOneApart_108
+  - first:
+      213: -6868100250143931082
+    second: GameGUIEasyOneApart_109
+  - first:
+      213: 3073112279717209684
+    second: GameGUIEasyOneApart_110
+  - first:
+      213: -5620583748000623629
+    second: GameGUIEasyOneApart_111
+  - first:
+      213: -1315632611301071418
+    second: GameGUIEasyOneApart_112
+  - first:
+      213: 1479241730587323189
+    second: GameGUIEasyOneApart_113
+  - first:
+      213: -2211418222588045175
+    second: GameGUIEasyOneApart_114
+  - first:
+      213: 4012862186783446840
+    second: GameGUIEasyOneApart_115
+  - first:
+      213: 7466116877170622021
+    second: GameGUIEasyOneApart_116
+  - first:
+      213: 1113576913474751195
+    second: GameGUIEasyOneApart_117
+  - first:
+      213: -4314014225539342385
+    second: GameGUIEasyOneApart_118
+  - first:
+      213: 276137225089480442
+    second: GameGUIEasyOneApart_119
+  - first:
+      213: 885763686210092442
+    second: GameGUIEasyOneApart_120
+  - first:
+      213: -4934835750122018430
+    second: GameGUIEasyOneApart_121
+  - first:
+      213: -6774211137087725287
+    second: GameGUIEasyOneApart_122
+  - first:
+      213: -7313982738890196071
+    second: GameGUIEasyOneApart_123
+  - first:
+      213: 540539281003651337
+    second: GameGUIEasyOneApart_124
+  - first:
+      213: 4078185103259139197
+    second: GameGUIEasyOneApart_125
+  - first:
+      213: 135805644680457351
+    second: GameGUIEasyOneApart_126
+  - first:
+      213: 8054503661091361391
+    second: GameGUIEasyOneApart_127
+  - first:
+      213: 8645047200828070582
+    second: GameGUIEasyOneApart_128
+  - first:
+      213: 8711249007062873492
+    second: GameGUIEasyOneApart_129
+  - first:
+      213: 3106108461873545238
+    second: GameGUIEasyOneApart_130
+  - first:
+      213: 7477300590179895669
+    second: GameGUIEasyOneApart_131
+  - first:
+      213: -5081215202395896440
+    second: GameGUIEasyOneApart_132
+  - first:
+      213: -1735605486919532957
+    second: GameGUIEasyOneApart_133
+  - first:
+      213: 7008470377990687624
+    second: GameGUIEasyOneApart_134
+  - first:
+      213: 3831040092579039345
+    second: GameGUIEasyOneApart_135
+  - first:
+      213: -8409143770404347725
+    second: GameGUIEasyOneApart_136
+  - first:
+      213: 2632002420548442939
+    second: GameGUIEasyOneApart_137
+  - first:
+      213: 4605925595305301487
+    second: GameGUIEasyOneApart_138
+  - first:
+      213: 3970582299723642741
+    second: GameGUIEasyOneApart_139
+  - first:
+      213: 7150430529186287852
+    second: GameGUIEasyOneApart_140
+  - first:
+      213: 4348459695268006995
+    second: GameGUIEasyOneApart_141
+  - first:
+      213: -4762073063841424521
+    second: GameGUIEasyOneApart_142
+  - first:
+      213: -3975635534174597074
+    second: GameGUIEasyOneApart_143
+  - first:
+      213: 2099725307788950871
+    second: GameGUIEasyOneApart_144
+  - first:
+      213: 7534696918247197492
+    second: GameGUIEasyOneApart_145
+  - first:
+      213: 4751823482257450846
+    second: GameGUIEasyOneApart_146
+  - first:
+      213: -2705498651116125488
+    second: GameGUIEasyOneApart_147
+  - first:
+      213: 7662942908564800666
+    second: GameGUIEasyOneApart_148
+  - first:
+      213: -7346052054383353516
+    second: GameGUIEasyOneApart_149
+  - first:
+      213: 5542704655445794016
+    second: GameGUIEasyOneApart_150
+  - first:
+      213: 6636678507216276544
+    second: GameGUIEasyOneApart_151
+  - first:
+      213: 595822863011354644
+    second: GameGUIEasyOneApart_152
+  - first:
+      213: 9124252101440095389
+    second: GameGUIEasyOneApart_153
+  - first:
+      213: 6936054369151702747
+    second: GameGUIEasyOneApart_154
+  - first:
+      213: 3386522566173858843
+    second: GameGUIEasyOneApart_155
+  - first:
+      213: 468015119857546799
+    second: GameGUIEasyOneApart_156
+  - first:
+      213: -4107131883415730698
+    second: GameGUIEasyOneApart_157
+  - first:
+      213: 3449386466291773114
+    second: GameGUIEasyOneApart_158
+  - first:
+      213: 2571961395925916024
+    second: GameGUIEasyOneApart_159
+  - first:
+      213: -3601999542394678950
+    second: GameGUIEasyOneApart_160
+  - first:
+      213: 7959686913343785145
+    second: GameGUIEasyOneApart_161
+  - first:
+      213: -4200835849596713147
+    second: GameGUIEasyOneApart_162
+  - first:
+      213: 4899424377337518255
+    second: GameGUIEasyOneApart_163
+  - first:
+      213: 4192985711102649003
+    second: GameGUIEasyOneApart_164
+  - first:
+      213: -9095591885731086836
+    second: GameGUIEasyOneApart_165
+  - first:
+      213: 217128844601468055
+    second: GameGUIEasyOneApart_166
+  - first:
+      213: 5611116782480576485
+    second: GameGUIEasyOneApart_167
+  - first:
+      213: 5122375025576322642
+    second: GameGUIEasyOneApart_168
+  - first:
+      213: 6316232024913488480
+    second: GameGUIEasyOneApart_169
+  - first:
+      213: -5850488818463331926
+    second: GameGUIEasyOneApart_170
+  - first:
+      213: -5899026946024474823
+    second: GameGUIEasyOneApart_171
+  - first:
+      213: -3955802121148364768
+    second: GameGUIEasyOneApart_172
+  - first:
+      213: -4573041536365702847
+    second: GameGUIEasyOneApart_173
+  - first:
+      213: 5309405884273147837
+    second: GameGUIEasyOneApart_174
+  - first:
+      213: 1190616043996640541
+    second: GameGUIEasyOneApart_175
+  - first:
+      213: -6416245132439229568
+    second: GameGUIEasyOneApart_176
+  - first:
+      213: -5844439539207027743
+    second: GameGUIEasyOneApart_177
+  - first:
+      213: 764743139647618771
+    second: GameGUIEasyOneApart_178
+  - first:
+      213: -6890659280231731658
+    second: GameGUIEasyOneApart_179
+  - first:
+      213: 5245689206307866460
+    second: GameGUIEasyOneApart_180
+  - first:
+      213: 4025590085358464255
+    second: GameGUIEasyOneApart_181
+  - first:
+      213: -4943132890296880727
+    second: GameGUIEasyOneApart_182
+  - first:
+      213: 4776259536788911899
+    second: GameGUIEasyOneApart_183
+  - first:
+      213: -5549365927835657151
+    second: GameGUIEasyOneApart_184
+  - first:
+      213: 2697676590171623012
+    second: GameGUIEasyOneApart_185
+  - first:
+      213: -9194140345334908496
+    second: GameGUIEasyOneApart_186
+  - first:
+      213: -1966916860478855273
+    second: GameGUIEasyOneApart_187
+  - first:
+      213: -6476535218208392777
+    second: GameGUIEasyOneApart_188
+  - first:
+      213: 6706651706368478080
+    second: GameGUIEasyOneApart_189
+  - first:
+      213: 889211316521862415
+    second: GameGUIEasyOneApart_190
+  - first:
+      213: 2202226938289434670
+    second: GameGUIEasyOneApart_191
+  - first:
+      213: 4850863145579889318
+    second: GameGUIEasyOneApart_192
+  - first:
+      213: -1553401695019505393
+    second: GameGUIEasyOneApart_193
+  - first:
+      213: -354720782193683023
+    second: GameGUIEasyOneApart_194
+  - first:
+      213: -4463368497140508547
+    second: GameGUIEasyOneApart_195
+  - first:
+      213: 6032328366068831216
+    second: GameGUIEasyOneApart_196
+  - first:
+      213: 2491542226811647484
+    second: GameGUIEasyOneApart_197
+  - first:
+      213: -5616262194941192883
+    second: GameGUIEasyOneApart_198
+  - first:
+      213: 2299000721062886025
+    second: GameGUIEasyOneApart_199
+  - first:
+      213: 3323820211680534474
+    second: GameGUIEasyOneApart_200
+  - first:
+      213: 6139274999507449983
+    second: GameGUIEasyOneApart_201
+  - first:
+      213: -1308597579779767797
+    second: GameGUIEasyOneApart_202
+  - first:
+      213: 5334538955818612728
+    second: GameGUIEasyOneApart_203
+  - first:
+      213: -926949728097923063
+    second: GameGUIEasyOneApart_204
+  - first:
+      213: 787041690640138111
+    second: GameGUIEasyOneApart_205
+  - first:
+      213: -7218920074831893735
+    second: GameGUIEasyOneApart_206
+  - first:
+      213: -2544309099773315281
+    second: GameGUIEasyOneApart_207
+  - first:
+      213: 4556492395467794759
+    second: GameGUIEasyOneApart_208
+  - first:
+      213: 5586180252469218765
+    second: GameGUIEasyOneApart_209
+  - first:
+      213: 9081034242563278483
+    second: GameGUIEasyOneApart_210
+  - first:
+      213: -767568690157978891
+    second: GameGUIEasyOneApart_211
+  - first:
+      213: -856731122085896699
+    second: GameGUIEasyOneApart_212
+  - first:
+      213: 6873420022096584780
+    second: GameGUIEasyOneApart_213
+  - first:
+      213: -8303664212851245646
+    second: GameGUIEasyOneApart_214
+  - first:
+      213: 2226275139093887530
+    second: GameGUIEasyOneApart_215
+  - first:
+      213: -7048867550198620811
+    second: GameGUIEasyOneApart_216
+  - first:
+      213: -5688917706349641441
+    second: GameGUIEasyOneApart_217
+  - first:
+      213: 7359585127498333351
+    second: GameGUIEasyOneApart_218
+  - first:
+      213: -7454881652091391820
+    second: GameGUIEasyOneApart_219
+  - first:
+      213: 4576613418915844171
+    second: GameGUIEasyOneApart_220
+  - first:
+      213: -1840203799235025658
+    second: GameGUIEasyOneApart_221
+  - first:
+      213: -5600338145997156842
+    second: GameGUIEasyOneApart_222
+  - first:
+      213: -7712917824784517114
+    second: GameGUIEasyOneApart_223
+  - first:
+      213: 3144600144164933205
+    second: GameGUIEasyOneApart_224
+  - first:
+      213: -91608813394636715
+    second: GameGUIEasyOneApart_225
+  - first:
+      213: -702592869339569428
+    second: GameGUIEasyOneApart_226
+  - first:
+      213: 7079835579197397191
+    second: GameGUIEasyOneApart_227
+  - first:
+      213: -1007586822021574680
+    second: GameGUIEasyOneApart_228
+  - first:
+      213: -8508519082645328166
+    second: GameGUIEasyOneApart_229
+  - first:
+      213: -3262988164052893348
+    second: GameGUIEasyOneApart_230
+  - first:
+      213: -4666263455263967841
+    second: GameGUIEasyOneApart_231
+  - first:
+      213: 7691086435517536776
+    second: GameGUIEasyOneApart_232
+  - first:
+      213: 8975852651098727854
+    second: GameGUIEasyOneApart_233
+  - first:
+      213: 4425378821342138250
+    second: GameGUIEasyOneApart_234
+  - first:
+      213: -7977855872483275843
+    second: GameGUIEasyOneApart_235
+  - first:
+      213: -2147170394812635887
+    second: GameGUIEasyOneApart_236
+  - first:
+      213: 4148884685210134294
+    second: GameGUIEasyOneApart_237
+  - first:
+      213: 7873463758930601100
+    second: GameGUIEasyOneApart_238
+  - first:
+      213: -7681351936621995657
+    second: GameGUIEasyOneApart_239
+  - first:
+      213: 2212067241015195107
+    second: GameGUIEasyOneApart_240
+  - first:
+      213: -2918984922737392970
+    second: GameGUIEasyOneApart_241
+  - first:
+      213: -7874451899733362494
+    second: GameGUIEasyOneApart_242
+  - first:
+      213: 5084307513154333396
+    second: GameGUIEasyOneApart_243
+  - first:
+      213: 2369612988351411718
+    second: GameGUIEasyOneApart_244
+  - first:
+      213: 6951492378152145293
+    second: GameGUIEasyOneApart_245
+  - first:
+      213: 5873555803530195715
+    second: GameGUIEasyOneApart_246
+  - first:
+      213: 844627806160445518
+    second: GameGUIEasyOneApart_247
+  - first:
+      213: -6416865129193076984
+    second: GameGUIEasyOneApart_248
+  - first:
+      213: -687238331487065681
+    second: GameGUIEasyOneApart_249
+  - first:
+      213: -6775951186949805650
+    second: GameGUIEasyOneApart_250
+  - first:
+      213: -5967261791268268249
+    second: GameGUIEasyOneApart_251
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2881
+        width: 469
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca661df8d0e86d0800000000000000
+      internalID: -2986434591555408780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3402
+        width: 241
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b8254df334fa70800000000000000
+      internalID: 8859763529824646878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3423
+        width: 193
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b5fb03f09ca6710800000000000000
+      internalID: 1687382077483211590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_3
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3178
+        width: 393
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5f65e522162fa50800000000000000
+      internalID: 6553407208017032659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_4
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 3324
+        width: 216
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0ae9f5388d3d70800000000000000
+      internalID: 9024518993727852107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_5
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 3332
+        width: 216
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57904982e04b5e0800000000000000
+      internalID: -1894873975771007561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3225
+        width: 298
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ee94c27eb2b5500800000000000000
+      internalID: 385950464950791759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_7
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 3326
+        width: 630
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4190ed219b2d8b330800000000000000
+      internalID: 3726960383976409364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_8
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 3241
+        width: 160
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ea87f64dc0f040800000000000000
+      internalID: 4679465717522424835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_9
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 3241
+        width: 159
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24db2a4867c073640800000000000000
+      internalID: 5059526409544973634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_10
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 3241
+        width: 160
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242006969bce425c0800000000000000
+      internalID: -4241004667995159998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_11
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3270
+        width: 608
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7083d31636479a0800000000000000
+      internalID: -6236250314711234646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_12
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 3200
+        width: 216
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a98ad5a0f4f000800000000000000
+      internalID: 68944489444123918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_13
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 3208
+        width: 216
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea8977ec1026930800000000000000
+      internalID: 4134869394160922291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3048
+        width: 298
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134771ee1dacb8b10800000000000000
+      internalID: 1984903063778325553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_15
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 3055
+        width: 476
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c429bb60ed81e0800000000000000
+      internalID: -2193850690187246299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_16
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 3048
+        width: 286
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a914366d044ecdb50800000000000000
+      internalID: 6619416519453655450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_17
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3048
+        width: 465
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f86663b331ce40800000000000000
+      internalID: 5674873851073851680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_18
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 3001
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549b68c4550575340800000000000000
+      internalID: 4852435450801338693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_19
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3001
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665844cecf3ff0620800000000000000
+      internalID: 2742678965713143142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_20
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2550
+        width: 546
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fbc7cc4d3c1f460800000000000000
+      internalID: 7273810191911272273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2943
+        width: 430
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914b47cc7491e570800000000000000
+      internalID: 8494233635837919632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_22
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2838
+        width: 465
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e459cd6db7ad940800000000000000
+      internalID: 5321702072445652550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_23
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2984
+        width: 288
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fd2ad9815714180800000000000000
+      internalID: -9132889820746293445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_24
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2401
+        width: 469
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bc23a6800593f0800000000000000
+      internalID: -894808372699942188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_25
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2869
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a8b81d1a76a1100800000000000000
+      internalID: 79489888135383607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_26
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2869
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ade08b16156aa0800000000000000
+      internalID: -6168499807231039503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_27
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2869
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b5d5bde6edc620800000000000000
+      internalID: 2796144852299264887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_28
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2778
+        width: 446
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27924d15f08951160800000000000000
+      internalID: 6995664787754723698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_29
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2807
+        width: 288
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614faecf4577956e0800000000000000
+      internalID: -1848314965154663402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_30
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2741
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446800553a08ccf70800000000000000
+      internalID: 9208876777059944004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_31
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2741
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98580bbcc7597740800000000000000
+      internalID: 5150244185697704090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_32
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2741
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1ad2c7dac1c1d60800000000000000
+      internalID: 7862190580920328653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_33
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2603
+        width: 446
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a148a1cb05f8417b0800000000000000
+      internalID: -5254417288318516198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_34
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2119
+        width: 468
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1f3feac8fc0ec0800000000000000
+      internalID: -3599228451694896539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_35
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2649
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de03f5f42f0e15b80800000000000000
+      internalID: -8407691698005659411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_36
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2663
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553e1f57547f0700800000000000000
+      internalID: 508753201522947420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_37
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 2677
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ff1cb061971b00800000000000000
+      internalID: 799267303540650471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_38
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 2677
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea27ff79dfe0c50800000000000000
+      internalID: 6633518130430914158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_39
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 2663
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9549684066e8d37e0800000000000000
+      internalID: -1784113308555111335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_40
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2611
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b056fc66eb54260800000000000000
+      internalID: 7081275337885420369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_41
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2611
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01cfbc83042e480800000000000000
+      internalID: -8871457703281815304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_42
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2611
+        width: 99
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb611d2f588e4d9b0800000000000000
+      internalID: -5056160819628140869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_43
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2513
+        width: 197
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caab43f619518bdb0800000000000000
+      internalID: -4776043690446243156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_44
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2513
+        width: 335
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8597febeaa9d28a20800000000000000
+      internalID: 3063250024691366232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_45
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2500
+        width: 216
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8989a2fa025f340800000000000000
+      internalID: 4896856106541291755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_46
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2488
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a3c3997817b240800000000000000
+      internalID: 4807338037690476876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_47
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2488
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a1cc3f60c221c0800000000000000
+      internalID: -4529846691188071882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_48
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2488
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f2146ed496ddd0800000000000000
+      internalID: -2461616463428784033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_49
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2356
+        width: 158
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a64cf7c2e1cee0800000000000000
+      internalID: -1242462673618688502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2348
+        width: 545
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb3a783a9e2d5890800000000000000
+      internalID: -7467761367203038261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_51
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2371
+        width: 216
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce09a360ba1fa9df0800000000000000
+      internalID: -172559918854139668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_52
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2358
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df927da5695870c80800000000000000
+      internalID: -8356563702747026947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_53
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2358
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553ca31a388fd6480800000000000000
+      internalID: -8904187644012215467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_54
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2358
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9551d98c2fef20800000000000000
+      internalID: 3454028409650649645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_55
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2356
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4e8ed8f554df60800000000000000
+      internalID: 8058160160646777686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_56
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 2356
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2db611cfbf0f990800000000000000
+      internalID: -7354101131453410652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2181
+        width: 545
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ffccb51033db4c0800000000000000
+      internalID: -4270200790749216884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_58
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2243
+        width: 216
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da1c85b9824c7d0800000000000000
+      internalID: -2899147612445627060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_59
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 2247
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c359a4834b3b032e0800000000000000
+      internalID: -2148019435635829444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_60
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2247
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f01c2b47e35be0800000000000000
+      internalID: -1489592741681630360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_61
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2247
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b281b56560d5cbbd0800000000000000
+      internalID: -2613111401981732821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_62
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2247
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1f86d45cfee580800000000000000
+      internalID: -8795815580900843978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_63
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2230
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23eb097ed71daae0800000000000000
+      internalID: -1536545653582470358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_64
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2230
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d504e7b8d75a19b0800000000000000
+      internalID: -5108674238988679726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_65
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2230
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338ed76989bb2240800000000000000
+      internalID: 4768108630306095930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_66
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 2212
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5614db3af7847c4e0800000000000000
+      internalID: -1961519399651425947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_67
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 2208
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d3f50ec3c703860800000000000000
+      internalID: 7507637179730836774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_68
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 2212
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d6f3ec78fd1710800000000000000
+      internalID: 1665760652481190097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_69
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2068
+        width: 335
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe2189c1c6428a0800000000000000
+      internalID: -6330816306109813803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_70
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2115
+        width: 216
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c123947f24d9e30800000000000000
+      internalID: 4511836031547481091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_71
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2111
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c713f23b6efa7f3f0800000000000000
+      internalID: -867030997861977732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_72
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2111
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd732b8adcc9740800000000000000
+      internalID: 5160225397487950913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_73
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 2068
+        width: 119
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563be676158a2010800000000000000
+      internalID: 1164889785159595608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_74
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 2093
+        width: 163
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e98e9ec250c7f0800000000000000
+      internalID: -594384103436328515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_75
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1887
+        width: 349
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7cca453813b3c30800000000000000
+      internalID: 4340117106032691117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_76
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1436
+        width: 468
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c1c1319ac230a0800000000000000
+      internalID: -6903232553851698862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_77
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1965
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bda5e523983d070800000000000000
+      internalID: 8129992601758259985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_78
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1450
+        width: 468
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b407a6f7d52665300800000000000000
+      internalID: 240487783820062795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_79
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1422
+        width: 469
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba52735ec2c5470800000000000000
+      internalID: 8384625969241369463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_80
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1967
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad165c7dc4bb4b10800000000000000
+      internalID: 1966864456924667305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_81
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 1895
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede815c2eb3aaeb0800000000000000
+      internalID: -4707884615307039259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_82
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1798
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908052c71ee52bb0800000000000000
+      internalID: -4961297628667019109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_83
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1806
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10efd5f98a17b870800000000000000
+      internalID: 8698450385127333919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_84
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1806
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e79d0f9ba78fa0800000000000000
+      internalID: -5798477295600017348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_85
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1911
+        width: 161
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd2454a3b0214e0800000000000000
+      internalID: -2012533738583171965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_86
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1918
+        width: 159
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747045c729b5a4c20800000000000000
+      internalID: 3191463970654652231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_87
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1716
+        width: 349
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e67ecd07a05d1a50800000000000000
+      internalID: 6493434916159518435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_88
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1829
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0a8ef784e960b0800000000000000
+      internalID: -5734801377737437675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_89
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1800
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5dd887c7360ac00800000000000000
+      internalID: 909836510978495922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_90
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1825
+        width: 101
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991ad81cb3501afe0800000000000000
+      internalID: -1179655873185865319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_91
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1835
+        width: 159
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b549c56d242c9c0800000000000000
+      internalID: -3908488038160508149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_92
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 1811
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a92e00c5f72a250800000000000000
+      internalID: 5954461690465786409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_93
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1679
+        width: 286
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da4f534ef8b2a5a0800000000000000
+      internalID: -6511438709032793389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_94
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1664
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e9041a4822a1b10800000000000000
+      internalID: 1952911341454925436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_95
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1667
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a643a36535ce90800000000000000
+      internalID: -7006134943247589088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_96
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1667
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b34af7c0f300c0800000000000000
+      internalID: -4610576851809356768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_97
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1677
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bed40f913d55b0800000000000000
+      internalID: -5378087820959240027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_98
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1739
+        width: 136
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82674a43f0a2299c0800000000000000
+      internalID: -3922026080690211288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_99
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1749
+        width: 159
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2805cb2e99075950800000000000000
+      internalID: 6437624767293229102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_100
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 1724
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ba2eae0c8ffc00800000000000000
+      internalID: 936621242195818060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_101
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1605
+        width: 434
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f2ce98b91b6cbe0800000000000000
+      internalID: -1457282147815772381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_102
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1625
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4a93007ed971790800000000000000
+      internalID: -7559399834051304262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_103
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1625
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b83b50f7a241c0800000000000000
+      internalID: -4520866425162124150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_104
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1547
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2953a03a75f1830800000000000000
+      internalID: 4044047348164563694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_105
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 1547
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bd0fd716284a710800000000000000
+      internalID: 1703629914289265497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_106
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1547
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff12dc9b6da3e07b0800000000000000
+      internalID: -5256199021180149249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_107
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1654
+        width: 157
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596ef688e0978380800000000000000
+      internalID: -8969040804513420962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_108
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1648
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ac220de7fd6af0800000000000000
+      internalID: -401392194450314806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_109
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1434
+        width: 455
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6354664163b9fa0a0800000000000000
+      internalID: -6868100250143931082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_110
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1505
+        width: 286
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566f6b1653e5aa20800000000000000
+      internalID: 3073112279717209684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_111
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1502
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d61e3cdcaff1b0800000000000000
+      internalID: -5620583748000623629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_112
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1570
+        width: 161
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ea7c4c1fedbde0800000000000000
+      internalID: -1315632611301071418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_113
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1584
+        width: 159
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b67904482578410800000000000000
+      internalID: 1479241730587323189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_114
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 1559
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98850d8d7d67f41e0800000000000000
+      internalID: -2211418222588045175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_115
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1461
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83713d7d5ec80b730800000000000000
+      internalID: 4012862186783446840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_116
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1461
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ebd4b1eb9fc9760800000000000000
+      internalID: 7466116877170622021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_117
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1485
+        width: 101
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0db58d48347f00800000000000000
+      internalID: 1113576913474751195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_118
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1498
+        width: 159
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfdeb22bea8124c0800000000000000
+      internalID: -4314014225539342385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_119
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 1475
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af678bad75905d300800000000000000
+      internalID: 276137225089480442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_120
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1265
+        width: 455
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d3e7f216dda4c00800000000000000
+      internalID: 885763686210092442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_121
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1315
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892419f701f38bb0800000000000000
+      internalID: -4934835750122018430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_122
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1315
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9112464bcda2df1a0800000000000000
+      internalID: -6774211137087725287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_123
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1315
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b7c1b33738f7a90800000000000000
+      internalID: -7313982738890196071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_124
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1399
+        width: 136
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9012e57bc91608700800000000000000
+      internalID: 540539281003651337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_125
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1413
+        width: 159
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cfc088ebf989830800000000000000
+      internalID: 4078185103259139197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_126
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 1389
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ceba9a38a72e100800000000000000
+      internalID: 135805644680457351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_127
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1284
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621f69b76857cf60800000000000000
+      internalID: 8054503661091361391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_128
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1284
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba97df20a069f770800000000000000
+      internalID: 8645047200828070582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_129
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1284
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f4f751d294e870800000000000000
+      internalID: 8711249007062873492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_130
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 1292
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610cecf603d1b1b20800000000000000
+      internalID: 3106108461873545238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_131
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1292
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579cd743545b4c760800000000000000
+      internalID: 7477300590179895669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_132
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 1292
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c0e1e1b5eb79b0800000000000000
+      internalID: -5081215202395896440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_133
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1314
+        width: 157
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e31f95104e9e7e0800000000000000
+      internalID: -1735605486919532957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_134
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1308
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b8bf22da6134160800000000000000
+      internalID: 7008470377990687624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_135
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1158
+        width: 285
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178047e9aa69a2530800000000000000
+      internalID: 3831040092579039345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_136
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1160
+        width: 181
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02cdb5b48bc4b80800000000000000
+      internalID: -8409143770404347725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_137
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1045
+        width: 99
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b12cca140c68420800000000000000
+      internalID: 2632002420548442939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_138
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1166
+        width: 214
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe55d0afce88bef30800000000000000
+      internalID: 4605925595305301487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_139
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1168
+        width: 215
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773b7680975a1730800000000000000
+      internalID: 3970582299723642741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_140
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1168
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d1438eae6b3360800000000000000
+      internalID: 7150430529186287852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_141
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1168
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8d80cd05d85c30800000000000000
+      internalID: 4348459695268006995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_142
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 621
+        width: 468
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b964b67c7b9edb0800000000000000
+      internalID: -4762073063841424521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_143
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 1150
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205a15ab84b3d8c0800000000000000
+      internalID: -3975635534174597074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_144
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 981
+        width: 297
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d78a8ea09b32d10800000000000000
+      internalID: 2099725307788950871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_145
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 983
+        width: 298
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bca563dee909860800000000000000
+      internalID: 7534696918247197492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_146
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1049
+        width: 214
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a057e74ed1f140800000000000000
+      internalID: 4751823482257450846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_147
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1049
+        width: 215
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2cce7af43247ad0800000000000000
+      internalID: -2705498651116125488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_148
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1049
+        width: 214
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a948a1fa9fd385a60800000000000000
+      internalID: 7662942908564800666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_149
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1049
+        width: 214
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a3fcd3949d0a90800000000000000
+      internalID: -7346052054383353516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_150
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 983
+        width: 119
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec10c28484abec40800000000000000
+      internalID: 5542704655445794016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_151
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 1012
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c881f80f73a1c50800000000000000
+      internalID: 6636678507216276544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_152
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 804
+        width: 297
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41819d2bcb9c44800800000000000000
+      internalID: 595822863011354644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_153
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 804
+        width: 298
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c273a1fadf9e70800000000000000
+      internalID: 9124252101440095389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_154
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 934
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6551033b0d14060800000000000000
+      internalID: 6936054369151702747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_155
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 932
+        width: 215
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c13a4d4585ffe20800000000000000
+      internalID: 3386522566173858843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_156
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 932
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26fe989549be7600800000000000000
+      internalID: 468015119857546799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_157
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 932
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5035300598007c0800000000000000
+      internalID: -4107131883415730698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_158
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 884
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6c5827beaedf20800000000000000
+      internalID: 3449386466291773114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_159
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 899
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799e24434171b320800000000000000
+      internalID: 2571961395925916024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_160
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 899
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51127a1080230ec0800000000000000
+      internalID: -3601999542394678950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_161
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 884
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b88e21531d767e60800000000000000
+      internalID: 7959686913343785145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_162
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 855
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547cf014d02a3b5c0800000000000000
+      internalID: -4200835849596713147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_163
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 802
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8971f43804ef340800000000000000
+      internalID: 4899424377337518255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_164
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 855
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ef82f94a703a30800000000000000
+      internalID: 4192985711102649003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_165
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 814
+        width: 215
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb215de57f5c180800000000000000
+      internalID: -9095591885731086836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_166
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 814
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79426f4a885630300800000000000000
+      internalID: 217128844601468055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_167
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 814
+        width: 214
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efccf41cf0bedd40800000000000000
+      internalID: 5611116782480576485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_168
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 695
+        width: 215
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2562fcd32f4561740800000000000000
+      internalID: 5122375025576322642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_169
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 695
+        width: 214
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a2ae3df83c7a750800000000000000
+      internalID: 6316232024913488480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_170
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 695
+        width: 214
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92915ba63eecea0800000000000000
+      internalID: -5850488818463331926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_171
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 695
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937f0c93f32722ea0800000000000000
+      internalID: -5899026946024474823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_172
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 654
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0280737fdea2a19c0800000000000000
+      internalID: -3955802121148364768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_173
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 693
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d0d1a3fa4980c0800000000000000
+      internalID: -4573041536365702847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_174
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf3874758ccea940800000000000000
+      internalID: 5309405884273147837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_175
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fc4edbfae58010800000000000000
+      internalID: 1190616043996640541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_176
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6129fb0be4f6a0800000000000000
+      internalID: -6416245132439229568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_177
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3415a443164eea0800000000000000
+      internalID: -5844439539207027743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_178
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 551
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3defc1f65d9ec9a00800000000000000
+      internalID: 764743139647618771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_179
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee98594e57f50a0800000000000000
+      internalID: -6890659280231731658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_180
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c4105a8e6cc840800000000000000
+      internalID: 5245689206307866460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_181
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc2029aad4cdd730800000000000000
+      internalID: 4025590085358464255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_182
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1fd4c73d6766bb0800000000000000
+      internalID: -4943132890296880727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_183
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ff553ebea84240800000000000000
+      internalID: 4776259536788911899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_184
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 551
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c13b62711bcf2b0800000000000000
+      internalID: -5549365927835657151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_185
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e011cd092107520800000000000000
+      internalID: 2697676590171623012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_186
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 551
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b93d811ad76080800000000000000
+      internalID: -9194140345334908496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_187
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 551
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7976e6c598b14b4e0800000000000000
+      internalID: -1966916860478855273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_188
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 551
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b16f7889be16a0800000000000000
+      internalID: -6476535218208392777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_189
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b4c5e8130d21d50800000000000000
+      internalID: 6706651706368478080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_190
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 551
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050b8b2bfc175c00800000000000000
+      internalID: 889211316521862415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_191
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 551
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20b9838bb1ef8e10800000000000000
+      internalID: 2202226938289434670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_192
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 464
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c256745ab15340800000000000000
+      internalID: 4850863145579889318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_193
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 464
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096fde7365317ae0800000000000000
+      internalID: -1553401695019505393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_194
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 464
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b595e6f357c31bf0800000000000000
+      internalID: -354720782193683023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_195
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 464
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785542fffdee02c0800000000000000
+      internalID: -4463368497140508547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_196
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 563
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39b0430b227b350800000000000000
+      internalID: 6032328366068831216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_197
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 555
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf57efb547cb39220800000000000000
+      internalID: 2491542226811647484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_198
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4513193a470f02b0800000000000000
+      internalID: -5616262194941192883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_199
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af155a9f0b7ef10800000000000000
+      internalID: 2299000721062886025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_200
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf5b764fd4902e20800000000000000
+      internalID: 3323820211680534474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_201
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f314b516133550800000000000000
+      internalID: 6139274999507449983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_202
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 398
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028a473f6de6dde0800000000000000
+      internalID: -1308597579779767797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_203
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73d0eaae6180a40800000000000000
+      internalID: 5334538955818612728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_204
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900141c2220d223f0800000000000000
+      internalID: -926949728097923063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_205
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f370a6f322cea00800000000000000
+      internalID: 787041690640138111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_206
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b65bd707e31db90800000000000000
+      internalID: -7218920074831893735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_207
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b735aa5cc0bcd0800000000000000
+      internalID: -2544309099773315281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_208
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 398
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74960ad31b9eb3f30800000000000000
+      internalID: 4556492395467794759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_209
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdcabfb759168d40800000000000000
+      internalID: 5586180252469218765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_210
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 398
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396842db780560e70800000000000000
+      internalID: 9081034242563278483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_211
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 398
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fafb62d75c0955f0800000000000000
+      internalID: -767568690157978891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_212
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 398
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5c0865974c14f0800000000000000
+      internalID: -856731122085896699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_213
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ef19d71b436f50800000000000000
+      internalID: 6873420022096584780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_214
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 398
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb0e2a46573cc80800000000000000
+      internalID: -8303664212851245646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_215
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 398
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a79f5917155ee10800000000000000
+      internalID: 2226275139093887530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_216
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d12a14f446d2e90800000000000000
+      internalID: -7048867550198620811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_217
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11899cbc77ec01b0800000000000000
+      internalID: -5688917706349641441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_218
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac39c24eaf722660800000000000000
+      internalID: 7359585127498333351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_219
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f38492a0fa8890800000000000000
+      internalID: -7454881652091391820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_220
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 246
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d3c418a5638f30800000000000000
+      internalID: 4576613418915844171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_221
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605a548f4684676e0800000000000000
+      internalID: -1840203799235025658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_222
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e05c9c02a9742b0800000000000000
+      internalID: -5600338145997156842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_223
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b0f76a1636f490800000000000000
+      internalID: -7712917824784517114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_224
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ec7999b2dd3ab20800000000000000
+      internalID: 3144600144164933205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_225
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5505153054a8abef0800000000000000
+      internalID: -91608813394636715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_226
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 246
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ea410283ef36f0800000000000000
+      internalID: -702592869339569428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_227
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89b3ed2f0a04260800000000000000
+      internalID: 7079835579197397191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_228
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 246
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef0a01bf155402f0800000000000000
+      internalID: -1007586822021574680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_229
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 246
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeea4279faabe980800000000000000
+      internalID: -8508519082645328166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_230
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 246
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c2578d8987b2d0800000000000000
+      internalID: -3262988164052893348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_231
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ba904c1a1e3fb0800000000000000
+      internalID: -4666263455263967841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_232
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 246
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a19dd2d5a3cba60800000000000000
+      internalID: 7691086435517536776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_233
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 246
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5ecf81e62a09c70800000000000000
+      internalID: 8975852651098727854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_234
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f82a2679a1a6d30800000000000000
+      internalID: 4425378821342138250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_235
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbce5b3a56f84190800000000000000
+      internalID: -7977855872483275843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_236
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11525f0f6e7b332e0800000000000000
+      internalID: -2147170394812635887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_237
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6172204b3acc39930800000000000000
+      internalID: 4148884685210134294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_238
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 94
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8468f6c299244d60800000000000000
+      internalID: 7873463758930601100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_239
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77913e67c1b566590800000000000000
+      internalID: -7681351936621995657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_240
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e53df78f67d2be10800000000000000
+      internalID: 2212067241015195107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_241
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2448f9daead77d0800000000000000
+      internalID: -2918984922737392970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_242
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83e73c7b358b290800000000000000
+      internalID: -7874451899733362494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_243
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae962deb61f8640800000000000000
+      internalID: 5084307513154333396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_244
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 94
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60676d9457e82e020800000000000000
+      internalID: 2369612988351411718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_245
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811892cc79a87060800000000000000
+      internalID: 6951492378152145293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_246
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 94
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f9d542ef038150800000000000000
+      internalID: 5873555803530195715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_247
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 94
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e406c91c388b8bb00800000000000000
+      internalID: 844627806160445518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_248
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 94
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8070bdab927b2f6a0800000000000000
+      internalID: -6416865129193076984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_249
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa96eafe0607676f0800000000000000
+      internalID: -687238331487065681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_250
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 94
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96876cb4cf6f1a0800000000000000
+      internalID: -6775951186949805650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyOneApart_251
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 94
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72791b94407003da0800000000000000
+      internalID: -5967261791268268249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
